@@ -1,0 +1,16 @@
+/*! purgecss start ignore */
+@tailwind base;
+
+body {
+  @apply text-dark;
+  font-family: "Roboto", sans-serif;
+}
+/*! purgecss end ignore */
+
+@import "base/all";
+
+@tailwind components;
+
+@import "components/all";
+
+@tailwind utilities;

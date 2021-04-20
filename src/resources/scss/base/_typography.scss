@@ -1,0 +1,18 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply leading-tight mt-0 mb-6;
+}
+
+.content {
+  p {
+    @apply mb-8;
+
+    &:first-child {
+      @apply border-b border-gray-200 text-s24 pb-10 mb-10 font-light leading-snug text-gray-600;
+    }
+  }
+}

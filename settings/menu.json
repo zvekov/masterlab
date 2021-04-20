@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "name": "О нас",
+      "link": "/#about"
+    },
+    {
+      "name": "Услуги",
+      "link": "/#services"
+    },
+    {
+      "name": "Заказать звонок",
+      "link": "/blog"
+    },
+    {
+      "name": "Контакты",
+      "link": "/contact"
+    }
+  ]
+}
